@@ -1,0 +1,11 @@
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\bin\Debug\Start.exe.config
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\bin\Debug\Start.exe
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\bin\Debug\Start.pdb
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\bin\Debug\Library_Rach.dll
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\bin\Debug\Library_Rach.pdb
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.Form1.resources
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.Properties.Resources.resources
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.exe
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Start\obj\Debug\Start.pdb

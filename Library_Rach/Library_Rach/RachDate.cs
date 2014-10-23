@@ -9,11 +9,11 @@ namespace Library_Rach
     public class RachDate
     {
 
-        public String addHoursToUTCDate(int offset)
+        public static String addHoursToUTCDate(int offset)
         {
             return DateTimeOffset.UtcNow.AddHours(10).ToString("dd/MM/yyyy");
         }
-        public String addHoursToUTCTime(int offset)
+        public static String addHoursToUTCTime(int offset)
         {
             return DateTimeOffset.UtcNow.AddHours(10).ToString("h:mm tt");
         }

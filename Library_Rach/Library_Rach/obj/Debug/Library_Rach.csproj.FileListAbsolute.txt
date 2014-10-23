@@ -1,0 +1,5 @@
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Library_Rach\bin\Debug\Library_Rach.dll
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Library_Rach\bin\Debug\Library_Rach.pdb
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Library_Rach\obj\Debug\Library_Rach.csprojResolveAssemblyReference.cache
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Library_Rach\obj\Debug\Library_Rach.dll
+H:\00000_cprachrepo\CS_Library_Rach\Library_Rach\Library_Rach\obj\Debug\Library_Rach.pdb
